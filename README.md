@@ -1,2 +1,3 @@
 # Change-detection-in-live-data
-Change detection in synthetic live data using SPLL algorithm
+Detect changes in synthetic data generated using random normal distribution using SPLL algorithm
+The implementation is demonstrated using animations function from matplotlib.
